@@ -1,0 +1,2 @@
+Bài 4: Viết chương trình nhập một số nguyên dương và kiểm tra xem số đó có chia hết cho 2 hoặc cho 3 hoặc cả hai hay không?
+Bài 5: Viết chương trình giải phương trình bậc 2: a*x*x + b*x + c = 0. Trong đó 3 tham số a,b,c được nhập từ bàn phím. Sử dụng thư viện math và hàm tính căn sqrt().
